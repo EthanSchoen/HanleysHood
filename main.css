@@ -1,12 +1,8 @@
 body {
-    background-color: darkkhaki;
+    background-color:whitesmoke;
 }
 
-.mainNav ul{
-    
-}
-
-.mainNav li{
+.main-nav li{
     display: inline;
     padding-left: 10px;
     padding-right: 10px;
