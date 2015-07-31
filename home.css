@@ -1,7 +1,8 @@
 body {
     background-color: whitesmoke;
     margin-top: auto;
-    margin-left: 200px;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 a {
@@ -37,6 +38,20 @@ p {
     text-decoration: none;
 }
 
+.sidebar {
+    float: left;
+    width: 300px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.body {
+    margin-left: 300px;
+}
+
 .footer {
     position: absolute;
     text-align: center;
@@ -50,5 +65,5 @@ p {
 }
 
 .footer #credits {
-    margin-top: 10px;
+    margin-top: 5px;
 }
