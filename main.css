@@ -1,0 +1,17 @@
+body {
+    background-color: darkkhaki;
+}
+
+.mainNav ul{
+    
+}
+
+.mainNav li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.title h1{
+    color: chartreuse;
+}
