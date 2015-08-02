@@ -65,6 +65,10 @@ p {
     text-decoration: none;
 }
 
+.body {
+    margin-left: 150px;   
+}
+
 .footer {
     position: absolute;
     text-align: center;
