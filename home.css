@@ -42,6 +42,7 @@ p {
     font-family: serif;
     font-size: 35px;
     padding-right: 40px;
+    font-style: oblique;
 }
 
 .main-nav a:link {
