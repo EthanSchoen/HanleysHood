@@ -49,6 +49,11 @@ p {
     text-decoration: none;
 }
 
+.body {
+    margin-left: 250px;
+    margin-right: 600px;
+}
+
 .footer {
     position: absolute;
     text-align: center;
