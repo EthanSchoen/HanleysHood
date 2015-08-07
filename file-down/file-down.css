@@ -69,6 +69,14 @@ p {
     margin-left: 150px;   
 }
 
+table th {
+    padding-bottom: 10px;
+}
+
+table td {
+    padding-right: 50px;
+}
+
 .footer {
     position: absolute;
     text-align: center;
