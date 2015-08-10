@@ -50,7 +50,7 @@ p {
 }
 
 .body {
-    margin-left: 150px;   
+    margin-left: 250px;   
 }
 
 .footer {
@@ -67,4 +67,28 @@ p {
 
 .footer #credits {
     margin-top: 5px;
+}
+
+.assignments {  
+    table-layout: fixed;
+}
+
+.assignments th, td {
+    padding-bottom: 15px;
+}
+
+#assign {
+    width: 100px;
+}
+
+#name {
+    width: 300px;
+}
+
+#files {
+    width: 200px;
+}
+
+.top {
+    border-top: 1px solid black;
 }
