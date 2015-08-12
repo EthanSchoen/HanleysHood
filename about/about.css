@@ -49,9 +49,23 @@ p {
     text-decoration: none;
 }
 
+.sidebar {
+    float: left;
+    width: 300px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    display: inline;
+}
+.sidebar li p {
+    text-align: center;
+}
+
 .body {
-    margin-left: 250px;
+    margin-left: 340px;
     margin-right: 600px;
+    margin-top: 50px;
 }
 
 .footer {
