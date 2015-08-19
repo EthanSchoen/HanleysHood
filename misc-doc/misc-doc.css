@@ -53,6 +53,10 @@ p {
     margin-left: 150px;   
 }
 
+.assignments th, td{
+    padding-bottom: 15px;
+}
+
 .footer {
     position: absolute;
     text-align: center;
