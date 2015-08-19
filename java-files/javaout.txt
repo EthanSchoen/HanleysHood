@@ -1,0 +1,41 @@
+Mr. Hanley - Sample File 1
+___________________________________________________
+Charge is 19.99
+Your change is 0.01
+You receive: 
+1 penny(ies) 
+___________________________________________________
+Charge is 19.96
+Your change is 0.04
+You receive: 
+4 penny(ies) 
+___________________________________________________
+Charge is 19.91
+Your change is 0.09
+You receive: 
+1 nickel(s) 4 penny(ies) 
+___________________________________________________
+Charge is 19.76
+Your change is 0.24
+You receive: 
+2 dime(s) 4 penny(ies) 
+___________________________________________________
+Charge is 19.5
+Your change is 0.5
+You receive: 
+2 quarter(s) 
+___________________________________________________
+Charge is 19.01
+Your change is 0.99
+You receive: 
+3 quarter(s) 2 dime(s) 4 penny(ies) 
+___________________________________________________
+Charge is 15.03
+Your change is 4.97
+You receive: 
+4 one(s) 3 quarter(s) 2 dime(s) 2 penny(ies) 
+___________________________________________________
+Charge is 14.36
+Your change is 5.64
+You receive: 
+1 five 2 quarter(s) 1 dime(s) 4 penny(ies) 
