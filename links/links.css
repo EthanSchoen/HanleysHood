@@ -53,6 +53,10 @@ p {
     margin-left: 150px;   
 }
 
+.assignments li {
+    list-style-type: none;
+}
+
 .footer {
     position: absolute;
     text-align: center;
