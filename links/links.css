@@ -53,8 +53,8 @@ p {
     margin-left: 150px;   
 }
 
-.assignments li {
-    list-style-type: none;
+.assignments th, td{
+    padding-bottom: 15px;
 }
 
 .footer {
